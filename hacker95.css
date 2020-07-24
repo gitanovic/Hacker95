@@ -51,7 +51,7 @@
 	.pagetop a {
 		background-color: var(--gray-95) !important;
 		/*box-shadow: 
-		inset -1px -1px var(--black-95s),
+		inset -1px -1px var(--black-95),
 		inset 1px 1px var(--white-95),
 		inset -2px -2px var(--dark-gray-95),
 		inset 2px 2px var(--light-gray-95)
